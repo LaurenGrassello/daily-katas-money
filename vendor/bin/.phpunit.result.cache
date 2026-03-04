@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"MoneyTest::testConvertsSimpleAmount":0.001,"MoneyTest::testConvertsWithDollarAndCommas":0,"MoneyTest::testConvertsWholeNumber":0,"MoneyTest::testRejectInvalidFormat":0}}

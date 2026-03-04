@@ -1,0 +1,6 @@
+{
+  "name": "lauren/daily-katas-money",
+  "require": { "php": ">=7.4" },
+  "require-dev": { "phpunit/phpunit": "^9.6" },
+  "autoload": { "classmap": ["src/"] }
+}

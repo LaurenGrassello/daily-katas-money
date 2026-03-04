@@ -1,0 +1,1 @@
+{"version":1,"defects":{"MoneyTest::testConvertsSimpleAmount":4,"MoneyTest::testConvertsWithDollarAndCommas":4,"MoneyTest::testConvertsWholeNumber":4,"MoneyTest::testRejectInvalidFormat":3},"times":{"MoneyTest::testConvertsSimpleAmount":0.003,"MoneyTest::testConvertsWithDollarAndCommas":0,"MoneyTest::testConvertsWholeNumber":0,"MoneyTest::testRejectInvalidFormat":0.007}}
