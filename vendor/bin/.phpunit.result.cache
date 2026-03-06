@@ -1,1 +1,1 @@
-{"version":1,"defects":[],"times":{"MoneyTest::testConvertsSimpleAmount":0.001,"MoneyTest::testConvertsWithDollarAndCommas":0,"MoneyTest::testConvertsWholeNumber":0,"MoneyTest::testRejectInvalidFormat":0}}
+{"version":1,"defects":{"SlugTest::testSlugBasic":3},"times":{"MoneyTest::testConvertsSimpleAmount":0.002,"MoneyTest::testConvertsWithDollarAndCommas":0,"MoneyTest::testConvertsWholeNumber":0,"MoneyTest::testRejectInvalidFormat":0.001,"SlugTest::testSlugBasic":0,"SlugTest::testSlugTrimsAndCollapses":0,"SlugTest::testSlugUnderscores":0,"SlugTest::testRejectsEmpty":0}}
