@@ -39,6 +39,7 @@ class ComposerStaticInit3375c2f2a918a06e5f619b2ac085beed
     );
 
     public static $classMap = array (
+        'Cart' => __DIR__ . '/../..' . '/src/Cart.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
         'Money' => __DIR__ . '/../..' . '/src/Money.php',
         'PHPUnit\\Exception' => __DIR__ . '/..' . '/phpunit/phpunit/src/Exception.php',
